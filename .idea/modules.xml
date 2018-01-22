@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FolhaWeb.iml" filepath="$PROJECT_DIR$/FolhaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FolhaWeb-ear/FolhaWeb-ear.iml" filepath="$PROJECT_DIR$/FolhaWeb-ear/FolhaWeb-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FolhaWeb-ejb/FolhaWeb-ejb.iml" filepath="$PROJECT_DIR$/FolhaWeb-ejb/FolhaWeb-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FolhaWeb-web/FolhaWeb-web.iml" filepath="$PROJECT_DIR$/FolhaWeb-web/FolhaWeb-web.iml" />
+    </modules>
+  </component>
+</project>
