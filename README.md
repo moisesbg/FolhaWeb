@@ -2,6 +2,7 @@
 
 ## Resumo
 Back-end de uma aplicação demonstração de cálculo fictício de folha de pagamento (calcula o salário, INSS e IRRF) para estudo do Java EE. Utiliza-se: 
+- JAX-RS para implementação dos serviços REST
 - Hibernate como implementação da JPA
 - CDI para injeção de dependência
 - Querydsl para consultas no banco de dados
